@@ -1,0 +1,15 @@
+This is Perl module Amon2::Setup::Flavor::BasicAPI.
+
+SYNOPSIS
+
+    % amon2-setup.pl --flavor=BasicAPI MyApp
+
+DOCUMENTATION
+
+Amon2::Setup::Flavor::BasicAPI documentation is available as in POD. So you can do:
+
+    % perldoc Amon2::Setup::Flavor::BasicAPI
+
+to read the documentation online with your favorite pager.
+
+Hisashi HATAKEYAMA
